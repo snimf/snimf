@@ -1,4 +1,4 @@
-module github.com/sn1mf/go-bookstore
+module C/Users/olegv/go/Src/bookstore
 
 go 1.19
 
